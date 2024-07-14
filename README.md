@@ -1,7 +1,7 @@
 # API-Bank-Account
 <p>This is my first api for managing bank account.</p>
 <p> Hope you like it!</p>
-<p> To run the file run BankApiApplication.java</p>
+<p> To run the API run BankApiApplication.java</p>
 <ol><li>
   Create an account <ul><li>
     POST http://localhost:8080/api/accounts
